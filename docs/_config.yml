@@ -29,13 +29,9 @@ github_username:  blue-1ms
 instagram_username: blue_1ms
 
 # Build settings
-# theme: minima
-# plugins:
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme 
-- jekyll-feed
-
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
